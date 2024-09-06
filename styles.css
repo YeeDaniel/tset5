@@ -1,0 +1,42 @@
+
+h1 {
+    font-size: 24px;
+    color: #fff;
+}
+
+p {
+    color: #fff;
+}
+
+.solid-docs {
+    color: #e74c3c;
+    font-weight: bold;
+}
+
+.upload-section {
+    margin-top: 20px;
+}
+
+.upload-button {
+    background-color: #e74c3c;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.upload-button:hover {
+    background-color: #c0392b;
+}
+
+.drag-drop {
+    margin-top: 10px;
+    color: #fff;
+    font-size: 14px;
+}
+
+input[type="file"] {
+    display: none;
+}
